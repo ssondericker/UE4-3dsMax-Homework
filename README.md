@@ -1,5 +1,5 @@
 # UE4-3dsMax-Homework
- UE4 constraint-based physics asset creation and implementation <br>
+ UE4 constraint-based physics asset creation and implementation <br><br>
  Assignement description:<br>
  -Skeletal Mesh (.fbx) created in 3ds Max (mesh + bones + skin) <br>
  -The skeletal mesh includes at least 8 bones<br>
